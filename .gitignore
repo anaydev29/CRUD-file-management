@@ -1,0 +1,4 @@
+.venv/
+fileforge_files/
+__pycache__/
+*.pyc
